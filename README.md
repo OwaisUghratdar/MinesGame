@@ -1,1 +1,1 @@
-"# MinesGame" 
+MinesGame
